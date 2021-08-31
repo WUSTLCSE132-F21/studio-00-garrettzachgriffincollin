@@ -1,4 +1,5 @@
 //This sketch prints how many seconds have elapsed since startup
+//Authored by Zach Cohn
 
 //This variable is set at 0 at startup
 int elapsedSecs = 0;
